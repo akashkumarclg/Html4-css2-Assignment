@@ -1,0 +1,681 @@
+*{
+	margin: 0 auto;
+	padding: 0px;
+}
+
+a
+{
+	text-decoration: none;
+}
+p{
+    padding: 5px;
+
+
+    margin: 0 0 10px;
+}
+/* top nav Start */
+#top-fixed{
+        position: fixed;
+    width: 100px;
+    top: 0px;
+}
+#top
+{
+	background-color: #2F2F2F;
+	width: 1500px;
+	height: 35px;
+}
+
+.topleft
+{
+	display: inline-block;
+	margin-left: 190px;
+}
+
+
+
+#top .topmain a{
+	color: #FFFFFF;
+    line-height: 30px;
+    margin-left: 7px;
+    margin-right: 7px;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+.topright
+{
+	display: inline-block;
+	float: right;
+	margin-right: 345px;
+}
+
+
+
+.topmain
+{
+	
+	padding-top: 5px;
+}
+
+
+/* nav start */
+
+#nav
+{
+	
+	background-color:#F7F8F9;
+	width:1500px;
+	height:115px;
+}
+
+.navtop ul
+{
+	list-style:none;
+	text-align:center;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	margin-right:180px;	
+}
+
+.navtop ul li
+{    
+    display:inline-block;
+    
+
+}
+
+.navtop ul li span
+{
+	padding-right: 42px;
+
+}
+
+.navtop ul li span a
+{
+	color: #075a82 !important;
+}
+
+.navtop ul li a
+{
+	font-family:"Myriad Pro";
+	font-size: 15px;
+	font-weight: 400;
+	font-stretch:normal;
+	color: #333333;	
+	padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border-radius: 5px;
+
+    padding-right: 12px;
+    padding-left: 12px;
+    margin-right: 2px;
+    line-height: 14px;
+
+}
+.navtop ul li a:hover{
+    background-color: #eeeeee;
+}
+
+.navbottom ul
+{
+	list-style:none;
+
+}
+
+.navbottom ul li
+{    
+    display:inline-block;
+    color:#5A8FAC;
+    padding-left: 15px;
+    padding-right:15px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px
+
+}
+
+
+/* top nav end */
+
+/* banner start  */
+
+#banner
+{
+	width:1500px;
+	height: 240px;
+	background-color: #00B0CC;
+    padding-top: 150px;
+}
+
+#banner img
+{
+	width: 581px;
+	height: 81px;
+	margin-top: 50px;
+	margin-left: 240px;
+}
+
+#banner P
+{
+	color: #FDFBFB;
+	font-family: 'Lato', sans-serif;
+	font-size: 20PX;
+	font-weight: bold;
+	margin-top: 22px;
+	margin-left: 240px;
+}
+
+/* banner end */
+/* Aboutus start */
+
+#Aboutus
+{
+	width: 940px;
+	text-align: center;
+	
+}
+
+#Aboutus h3
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+    line-height: 50px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-rendering: optimizelegibility;
+}
+
+#Aboutus h3 span 
+{
+	color: #00B2CE;
+}
+
+
+/* Aboutus end */
+
+/* Awarded vision mission Start start */
+
+#AWARDED
+{
+	width: 940px;
+	text-align: center;
+    background-color: #D9EDF7;
+    margin-top: 5px;
+}
+
+#AWARDED h4
+{
+    color: #3a87ad;
+    font-size: 22px;
+    font-family: 'Lato', sans-serif;;
+    font-weight: bold;
+    line-height: 20px;
+    padding-top: 10px;
+}
+
+#AWARDED h5
+{
+	color: #3a87ad;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    line-height: 20px;
+    padding-top: 10px;
+
+}
+
+.AWARDEDContent
+{
+	color:#77ADC8;
+	padding-top: 10px;
+
+}
+
+.AWARDEDContent strong
+{
+	color: #3a87ad;
+}
+
+#AWARDED sub
+{
+	color: #77ADC8;
+	margin-bottom:  10px;
+
+}
+
+#AWARDED sub strong
+{
+	color: #3a87ad;
+
+}
+
+#VISIONMISSIONabotus
+{
+	width: 940px;
+	text-align: center;
+    
+}
+
+.VISION
+{
+	color:#777777;
+	font-family: 'Lato', sans-serif;
+    padding-top: 40px;
+}
+
+#VISIONMISSIONabotus img
+{
+	padding-top: 20px;
+}
+
+.MISSION
+{
+	color:#666666;
+	font-family: 'Lato', sans-serif;
+    
+}
+
+.MISSIONcontent
+{
+	color:#666666;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	padding-top: 30px;
+	margin-bottom: 0.35cm;
+
+}
+
+
+/* Awarded vision mission Start start */
+
+.ABOUTUSdetail
+{
+	color:#666666;
+	margin-bottom: 0.35cm;
+	font-family: 'Lato', sans-serif;
+
+}
+
+.collegedetail
+{
+	font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #666666;
+    font-size: 16px;
+    line-height: 24px;
+    padding-top: 15px;
+}
+
+#Institutionalhighlights
+{
+	width: 940px;
+	text-align: center;
+}
+
+.Institutionalhighlightsdeatile
+{
+	font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #666666;
+    font-size: 16px;
+    padding-top: 15px;
+
+}
+
+#Institutionalhighlights ul
+{
+	margin-left: 15px;
+}
+
+#Institutionalhighlights ul li
+{
+	display: list-item;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #666666;
+    font-size: 16px;
+    text-align: left;
+}
+
+.Institutionalhighlightsdeatile1
+{
+	font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #666666;
+    font-size: 15px;
+    line-height: 24px;
+    margin-top: 15px;
+    text-align:left;
+
+}
+
+.Institutionalhighlightsdeatile2
+{
+	font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #666666;
+    font-size: 15px;
+    line-height: 24px;
+    margin-top: 15px;
+    text-align:left;
+
+}
+
+
+/*Under-graduate table Start*/
+
+#Under-graduate
+{
+	width: 940px;
+}
+
+.Under-graduate1
+{
+	font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #666666;
+    font-size: 15px;
+    line-height: 24px;
+    margin-top: 25px;
+    text-align:left;
+
+}
+
+#Under-graduateSeat
+{
+	width: 940px;
+	
+	
+}
+
+#Under-graduateSeat table
+{   
+	width: 940px;
+	
+}
+
+.table1
+{
+	margin-top: 15px;
+}
+
+.table1 th, .table1 td {
+    padding: 8px;
+    line-height: 20px;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #dddddd;
+}
+
+.table1 tr td p strong
+{
+	font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color: #666666;
+    font-size: 16px;
+    
+}
+
+.table1 tr td p
+{
+	font-family: 'Lato', sans-serif;
+    color: #666666;
+    font-size: 16px;
+    
+}
+
+
+/*Under-graduate table End*/
+
+/*Post-graduate table Start*/
+
+#Post-graduate
+{
+	width: 940px;
+}
+
+.Post-graduate1
+{
+	font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #666666;
+    font-size: 15px;
+    line-height: 24px;
+    margin-top: 25px;
+    text-align:left;
+
+}
+
+tr:hover{
+    background-color: #f5f5f5;
+}
+
+
+#Post-graduateseat
+{
+	width: 940px;
+	
+	
+}
+
+#Post-graduateseat table
+{   
+	width: 940px;
+	
+}
+
+.table2
+{
+	margin-top: 15px;
+}
+
+.table2 th, .table1 td {
+    padding: 8px;
+    line-height: 20px;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #dddddd;
+}
+
+.table2 tr td p strong
+{
+	font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color: #666666;
+    font-size: 16px;
+    
+    
+}
+
+.table2 tr td p
+{
+	font-family: 'Lato', sans-serif;
+    color: #666666;
+    font-size: 16px;
+    padding-left: 10px;
+    padding: 5px;
+    
+}
+
+.table2 ul, ol {
+    padding: 0;
+    margin: 0 0 10px 25px;
+}
+
+.table2 ol li
+{
+	font-family: 'Lato', sans-serif;
+    color: #666666;
+    font-size: 16px;
+    line-height: 20px;
+    
+}
+
+/*Post-graduate table End*/
+
+/*Doctoral-Program table start*/
+
+
+#Doctoral-Program
+{
+	width: 940px;
+}
+
+.Doctoral-Program1
+{
+	font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #666666;
+    font-size: 15px;
+    line-height: 24px;
+    margin-top: 25px;
+    text-align:left;
+
+}
+
+#Doctoral-Program2
+{
+	width: 940px;
+	
+	
+}
+
+#Doctoral-Program2 table
+{   
+	width: 940px;
+	
+}
+
+
+
+.table3
+{
+	margin-top: 15px;
+}
+
+.table3 th, .table1 td {
+    padding: 8px;
+    line-height: 20px;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #dddddd;
+}
+
+.table3 tr td p strong
+{
+	font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color: #666666;
+    font-size: 16px;
+    
+}
+
+.table3 tr td p
+{
+	font-family: 'Lato', sans-serif;
+    color: #666666;
+    font-size: 16px;
+    padding: 5px;
+    margin: 0 0 10px;
+    
+}
+
+/*Doctoral-Program table End*/
+
+/*--container-footer start--*/
+
+
+#container-footer {
+    border-top: 1px solid #E3E3E3;
+    margin-top: 100px;
+        background: linear-gradient(to bottom, rgba(0,169,198,1) 0%,rgba(0,178,206,1) 100%);
+        height: 163px;
+    }
+.container {
+       margin-left: 185px;
+       margin-top: 10px;
+}
+.span2 {
+    width: 140px;
+        float: left;
+    min-height: 1px;
+    margin-left: 20px;
+}
+#container-footer ul.ul1 {
+    border-right: 1px dotted #2c8cbc;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#container-footer ul.ul1 li {
+    text-align: right;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+    line-height: 20px;
+}
+
+ul.unstyled, ol.unstyled {
+    margin-left: 0;
+    list-style: none;
+}
+
+#footer-logo-container {
+    text-align: center;
+}
+
+.span4 {
+    width: 300px;
+
+    float: left;
+    min-height: 1px;
+    margin-left: 20px;
+}
+
+#footer-logo-container img {
+    width: 120px;
+    height: 80px;
+}
+
+#container-footer ul.ul2 {
+    border-left: 1px dotted #2c8cbc;
+    padding-left: 20px;
+    padding-top: 13px;
+}
+#container-footer ul.ul2 li {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#container-footer ul.ul1 li a {
+    color: #EDEDED;
+    font-size: 12px;
+}
+
+#container-footer ul.ul2 li a {
+    color: #EDEDED;
+    font-size: 12px;
+}
+
+/*--container-footer end--*/
+
+
+/*--footer start--*/
+
+ 
+#footer-socialIcons {
+    background: linear-gradient(to bottom, #444444 0%,#222222 100%);
+    border-top: 1px solid #999999;
+}
+
+#footer-socialIcons img {
+    padding: 5px;
+}
+
+/*--footer end--*/
